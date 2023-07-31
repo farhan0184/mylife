@@ -7,7 +7,7 @@
 
 
 
-## using library for project
+## using library for this project
  - react-router-dom
  - react-phone-input-2
  - recharts
