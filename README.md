@@ -1,8 +1,8 @@
 # page:
- - home page [http://localhost:3000/](http://localhost:3000/)
- - login page [http://localhost:3000/login](http://localhost:3000/login)
- - register page [http://localhost:3000/register](http://localhost:3000/register)
- - dashboard page [http://localhost:3000/dashboard](http://localhost:3000/dashboard)
+ - home page [https://mylife-kg8b.vercel.app/](https://mylife-kg8b.vercel.app/)
+ - login page [https://mylife-kg8b.vercel.app/login](https://mylife-kg8b.vercel.app/login)
+ - register page [https://mylife-kg8b.vercel.app/register](https://mylife-kg8b.vercel.app/register)
+ - dashboard page [https://mylife-kg8b.vercel.app/dashboard](https://mylife-kg8b.vercel.app/dashboard)
 
 
 
